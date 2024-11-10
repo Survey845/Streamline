@@ -15,12 +15,12 @@ Streamline allows users to share images in a more innovative way, by intorducing
 
 ### Features
 
-- **Upload Images:** Place market/limit buy and sell orders on Deribit
-- **Vote posts by others:** Cancel open orders by OrderID
-- **A chance to become Moderator:** Edit existing orders by amount and price
-- **Bot resistant:** Fetch and display Order Book
-- **Get paid to make content:** Displays current open positions
-- **Wallet for Authorization:** Easy access through wallets
+- **Upload Images:** Upload images which will be stored on Interplanetary File System (IPFS).
+- **Vote posts by others:** Improve user engagement.
+- **A chance to become Moderator:** A chance to be rewarded by doing good work for the community.
+- **Bot resistant:** Remove posts with a super-low voting from the user's feed.
+- **Get paid to make content:** High-rated creators will be encouraged to make more content.
+- **Wallet for Authorization:** Easy access through wallets.
 
 ### Prerequisites
 
