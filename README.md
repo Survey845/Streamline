@@ -1,6 +1,6 @@
 # Streamline
 
-## Streamline is a software which uses web3 technology and runs on Aptos blockchain
+## Streamline is a software which uses Web3 technology and runs on the Aptos blockchain
 
 ### Table of Contents
 
@@ -32,5 +32,5 @@ Streamline allows users to share images in a more innovative way, by intorducing
 
 ### Structure
 
-- contracts - Contains the backend implementations for Streamline, written in Move.
-- stream - Contains the front-end for Streamline, a user page where the image upoad function is provided, along with network and wallet data.
+- Contracts - Contains the backend implementations for Streamline, written in Move.
+- Stream - Contains the front-end for Streamline, a user page where the image upoad function is provided, along with network and wallet data.
